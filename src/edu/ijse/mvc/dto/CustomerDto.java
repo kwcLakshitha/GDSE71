@@ -9,6 +9,9 @@ package edu.ijse.mvc.dto;
  * @author lakshitha
  */
 public class CustomerDto {
+
+    public CustomerDto(String string, String string1, String string2, String string3, double aDouble, String string4, String string5, String string6, String string7) {
+    }
     
     private String custID;
     private String custTitle;
